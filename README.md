@@ -8,17 +8,17 @@ Criado esse repositório para publicar os resultados obtidos com os testes reali
 
 
 ## 🤖 IAs Generativas Utilizadas
-- **[Copilot]((https://copilot.microsoft.com)**.
 - **[ChatGPT]((https://chat.openai.com)**.
+- **[Copilot]((https://copilot.microsoft.com)**.
 
 
 ## 🧐 Processo de Criação
-Foi utilizado o "ChatGPT" para geração das imagens com texto incluído.
-Foi utilizado o "Copilot" para realizar o reconhecimento de texto nas imagens geradas.
+Foi utilizado o ChatGPT para geração das imagens com texto incluído.
+Foi utilizado o Copilot para realizar o reconhecimento de texto nas imagens geradas.
 
 
 ## 🚀 Resultados
-O "ChatGPT" foi capaz de gerar excelentes imagens com caracteristicas realistas e com texto incluído de forma surpreendente e se mostra uma excelente ferramenta para geração de imagens. O "Copilot" foi capaz de reconhecer o texto nas imagens geradas com 100% de acerto. A imagens geradas pelo "ChatGPT" foram colocadas na pasta [inputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/inputs) e os resultados do reconhecimento de texto pelo "Copilot" foram colocadas na pasta [outputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/outputs).
+O ChatGPT foi capaz de gerar excelentes imagens com caracteristicas realistas e com texto incluído de forma surpreendente e se mostra uma excelente ferramenta para geração de imagens. O Copilot foi capaz de reconhecer o texto nas imagens geradas com 100% de acerto. A imagens geradas pelo ChatGPT foram colocadas na pasta [inputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/inputs) e os resultados do reconhecimento de texto pelo Copilot foram colocadas na pasta [outputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/outputs).
 
 
 ## 💭 Reflexão
