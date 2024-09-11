@@ -18,7 +18,7 @@ Foi utilizado o Copilot para realizar o reconhecimento de texto nas imagens gera
 
 
 ## 🚀 Resultados
-O ChatGPT foi capaz de gerar excelentes imagens com caracteristicas realistas e com texto incluído de forma surpreendente e se mostra uma excelente ferramenta para geração de imagens. O Copilot foi capaz de reconhecer o texto nas imagens geradas com 100% de acerto. A imagens geradas pelo ChatGPT foram colocadas na pasta [inputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/inputs) e os resultados do reconhecimento de texto pelo Copilot foram colocadas na pasta [outputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/outputs).
+O ChatGPT foi capaz de gerar excelentes imagens com caracteristicas realistas e com texto incluído de forma surpreendente e se mostra uma excelente ferramenta para geração de imagens. O Copilot foi capaz de reconhecer o texto nas imagens geradas com 100% de acerto. A imagens geradas pelo ChatGPT foram colocadas na pasta [inputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/tree/main/Inputs) e os resultados do reconhecimento de texto pelo Copilot foram colocadas na pasta [outputs](https://github.com/LudgeroBernardi/ImagensCopiloteOpenAI/tree/main/Outputs).
 
 
 ## 💭 Reflexão
