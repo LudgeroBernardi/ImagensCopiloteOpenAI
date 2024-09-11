@@ -8,8 +8,8 @@ Criado esse repositório para publicar os resultados obtidos com os testes reali
 
 
 ## 🤖 IAs Generativas Utilizadas
-- **[ChatGPT]((https://chat.openai.com)**.
-- **[Copilot]((https://copilot.microsoft.com)**.
+- **[ChatGPT](https://chat.openai.com)**.
+- **[Copilot](https://copilot.microsoft.com)**.
 
 
 ## 🧐 Processo de Criação
